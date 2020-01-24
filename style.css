@@ -26,3 +26,24 @@
 .abs {
   position: absolute;
 }
+
+.slide {
+  bottom: -12rem;
+}
+
+.largepad {
+  padding-top: 10em;
+  padding-bottom: 10em;
+}
+
+.shift {
+  left: 4em;
+}
+
+.bshift {
+  left: 5em;
+}
+
+.smallfont {
+  font-size: x-small;
+}
