@@ -1,0 +1,28 @@
+.bg-img {
+  background-image: url(./wallpaperflare.com_wallpaper.jpg);
+}
+
+.alcent {
+  align-items: center;
+}
+
+.bigpad {
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+
+.txt-white {
+  color: white;
+}
+
+.pad {
+  padding: 7vh;
+}
+
+.topad {
+  padding-top: 25vh;
+}
+
+.abs {
+  position: absolute;
+}
