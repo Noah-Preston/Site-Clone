@@ -23,7 +23,7 @@
   padding-top: 25vh;
 }
 
-.abs {
+.dabs {
   position: absolute;
 }
 
@@ -32,7 +32,6 @@
 }
 
 .largepad {
-  padding-top: 10em;
   padding-bottom: 10em;
 }
 
@@ -46,4 +45,27 @@
 
 .smallfont {
   font-size: x-small;
+}
+
+.slid {
+  top: 2rem;
+  left: ;
+}
+
+.imgslide {
+  margin-right: 5em;
+}
+
+.button1 {
+  position: absolute;
+  top: 7.5em;
+  left: 5em;
+}
+
+.slidel {
+  scroll-padding-left: 1em;
+}
+
+.sleft {
+  padding-left: 4.5em;
 }
